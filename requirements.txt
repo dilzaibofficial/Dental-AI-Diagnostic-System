@@ -1,0 +1,6 @@
+ultralytics
+streamlit
+pillow
+numpy
+fpdf
+opencv-python-headless

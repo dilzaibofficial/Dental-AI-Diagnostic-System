@@ -1,6 +1,3 @@
-
-
-
 # 🦷 Dental OPG AI Diagnostic System – Smart Dental Reports
 
 <p align="center">

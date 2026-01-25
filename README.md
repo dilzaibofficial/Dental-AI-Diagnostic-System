@@ -14,8 +14,6 @@
 ## 📸 Project Preview
 > ![Dental AI Preview](preview.png)
 
-```md
-![Dental AI Preview](preview.png)
 
 ---
 ## 📌 Project Structure

@@ -11,6 +11,13 @@
 ---
 
 
+## 📸 Project Preview
+> ⚠️ *Add your own screenshots or GIFs here for better visual impact*
+
+```md
+![Dental AI Preview](preview.png)
+
+---
 ## 📌 Project Structure
 
 ```plaintext

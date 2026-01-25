@@ -12,7 +12,7 @@
 
 
 ## 📸 Project Preview
-> ⚠️ *Add your own screenshots or GIFs here for better visual impact*
+> ![Dental AI Preview](preview.png)
 
 ```md
 ![Dental AI Preview](preview.png)

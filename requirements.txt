@@ -4,4 +4,4 @@ pillow
 numpy
 fpdf
 opencv-python-headless
-libgl1
+#libgl1

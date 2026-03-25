@@ -1,12 +1,20 @@
 import os
 os.environ["OPENCV_IO_ENABLE_OPENEXR"] = "0"
 
+# cv2 ko pehle force-import karo
+try:
+    import cv2
+except ImportError:
+    import types
+    import sys
+    cv2_mock = types.ModuleType("cv2")
+    sys.modules["cv2"] = cv2_mock
+
 import streamlit as st
 from ultralytics import YOLO
 from PIL import Image
 import numpy as np
 import cv2
-import os
 from fpdf import FPDF
 from datetime import datetime
 
